@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Relacion9Ej4","l":"Clerigo"},{"p":"Relacion9Ej4","l":"Mago"},{"p":"Relacion9Ej4","l":"Personaje"},{"p":"Relacion9Ej4","l":"PersonajeException"},{"p":"Relacion9Ej4","l":"Principal"},{"p":"Relacion9Ej4","l":"TRaza"}];updateSearchResults();
